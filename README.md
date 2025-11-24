@@ -1,4 +1,5 @@
-Aula sobre Bitcoin — Repositório Inicial
+Aula Bitcoin
+
 📚 Sobre
 
 Repositório inicial para apoiar uma aula prática de Bitcoin. 
